@@ -35,7 +35,7 @@ This repository contains a Python script for exploratory data Analysis (EDA) usi
     - Displays the distribution of movie durations with 25 bins, a kernel density estimate (kde), and a skyblue color, providing insights into the overall pattern of movie 
      duration in the dataset.
 
-- ## Usage**
+- **Usage**
     -Clone the repository.
     -Install the required dependencies: `pip install -r requirements.txt`.
     -Run the main script
